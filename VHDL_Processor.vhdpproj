@@ -1,0 +1,27 @@
+﻿<Project>
+  <ItemGroup>
+    <File Include="VHDL_Processor_tb.vhd" />
+    <File Include="add.vhd" />
+    <File Include="addsub.vhd" />
+    <File Include="alu.vhd" />
+    <File Include="cmp.vhd" />
+    <File Include="constants_pck.vhd" />
+    <File Include="control.vhd" />
+    <File Include="counter.vhd" />
+    <File Include="cpu.vhd" />
+    <File Include="fulladder.vhd" />
+    <File Include="intunit.vhd" />
+    <File Include="jump.vhd" />
+    <File Include="memory.vhd" />
+    <File Include="mult.vhd" />
+    <File Include="multadd.vhd" />
+    <File Include="myPkg.vhd" />
+    <File Include="myPkg_body.vhd" />
+    <File Include="pcounter.vhd" />
+    <File Include="processor.vhd" />
+    <File Include="reg.vhd" />
+    <File Include="shiftrot.vhd" />
+    <File Include="stack.vhd" />
+  </ItemGroup>
+  <PropertyGroup />
+</Project>

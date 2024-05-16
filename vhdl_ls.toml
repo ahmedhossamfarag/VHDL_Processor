@@ -1,0 +1,52 @@
+# auto-generated
+[Libraries]
+work.files = [
+	'VHDL_Processor_tb.vhd',
+	'add.vhd',
+	'addsub.vhd',
+	'alu.vhd',
+	'cmp.vhd',
+	'constants_pck.vhd',
+	'control.vhd',
+	'counter.vhd',
+	'cpu.vhd',
+	'fulladder.vhd',
+	'intunit.vhd',
+	'jump.vhd',
+	'memory.vhd',
+	'mult.vhd',
+	'multadd.vhd',
+	'myPkg.vhd',
+	'myPkg_body.vhd',
+	'pcounter.vhd',
+	'processor.vhd',
+	'reg.vhd',
+	'shiftrot.vhd',
+	'stack.vhd'
+]
+[libraries.work]
+files = [
+	'VHDL_Processor_tb.vhd',
+	'add.vhd',
+	'addsub.vhd',
+	'alu.vhd',
+	'cmp.vhd',
+	'constants_pck.vhd',
+	'control.vhd',
+	'counter.vhd',
+	'cpu.vhd',
+	'fulladder.vhd',
+	'intunit.vhd',
+	'jump.vhd',
+	'memory.vhd',
+	'mult.vhd',
+	'multadd.vhd',
+	'myPkg.vhd',
+	'myPkg_body.vhd',
+	'pcounter.vhd',
+	'processor.vhd',
+	'reg.vhd',
+	'shiftrot.vhd',
+	'stack.vhd'
+]
+# auto-generated-end
